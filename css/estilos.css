@@ -43,11 +43,6 @@ body
 
 }
 
-#container h1
-{
-    font-size: 20px;
-}
-
 #footer
 {
     background: #37488b;
@@ -56,9 +51,3 @@ body
     padding: 1em;
 }
 
- 
-img.izquierda
-{
-  float: left;
-  margin-right: 15px;
-}
